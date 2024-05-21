@@ -1,2 +1,21 @@
 Recursion:
    The function That Call itself until the base condition (or) the termination condition occur .
+
+The five Condition used to solve the Problem using Recursion are,
+  1) Understand the Problem
+  2) Identify the SubProblem
+  3) Trust/Faith
+  4) Link the Problem and SubProblem
+  5) Base Condition
+
+Recursion VS Iteration
+   * Things done by recursively can also be done by iteratively.
+   * Iteration does not use the recursive call stack[better space complexity].
+   * Recursion has Both
+        |---> Ascending Pase
+        |---> Descending Pase
+   * Recursion has better readability, easy to write (eg: more complex problems)
+
+Ways to write a base case:
+   i) Last Valid Input
+   ii) First InValid Input
